@@ -1,0 +1,23 @@
+{
+  "name": "test_app",
+  "version": "1.0.0",
+  "description": "test application with electronjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "Test",
+    "REST"
+  ],
+  "author": "Kevin Tian",
+  "license": "ISC",
+  "devDependencies": {
+    "devtron": "^1.4.0",
+    "electron": "^4.0.0"
+  },
+  "dependencies": {
+    "electron-store": "^2.0.0"
+  }
+}
